@@ -30,5 +30,5 @@ https://inthusha20241647-commits.github.io/profile-simple-website/
 
 ## Purpose
 
-This project was created to practise the fundamentals of **HTML and CSS** and to create a simple personal portfolio website for showcasing my profile and projects.
+This project was created to practise the fundamentals of **HTML and CSS** .
 
