@@ -7,6 +7,10 @@ This is a simple personal portfolio website built using **HTML and CSS**. It pre
 * **Home Page** – Contains my introduction, About Me section, interests, projects, and social media links.
 * **Contact Page** – Contains a contact form where visitors can enter their name, email, and message.
 
+## Live Website
+
+https://inthusha20241647-commits.github.io/profile-simple-website/
+
 ## Technologies Used
 
 * HTML5
